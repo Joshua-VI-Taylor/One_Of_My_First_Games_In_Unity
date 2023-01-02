@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - door
+  - Crowbar
+  - End
+  - IN
+  - target
+  - GoBack
+  - Destroy
+  - Robot
+  - Smasher
+  - robot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Litter
+  - Water
+  - UI
+  - Wood
+  - HN
+  - WD
+  - Crowbar
+  - NavD
+  - Blade1
+  - Target
+  - Blade2
+  - MPT
+  - Start
+  - TagChange
+  - PP
+  - LitterCreat
+  - reset
+  - Upstairs
+  - Door
+  - KeyCard
+  - Robot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
